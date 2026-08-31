@@ -8,8 +8,7 @@ Week 01 · Setup & Hello World
 Paste a link to a short video of you running this assignment (tool + code + run).
 Work without a working video link is incomplete.
 
-**Your demo:** _add your link here_
-
+**Your demo:** https://www.youtube.com/watch?v=dujQFppYUnw
 
 ## Requirements
 - Use `cin` / `cout` with clear prompts
